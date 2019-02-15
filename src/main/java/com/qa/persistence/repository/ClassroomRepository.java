@@ -2,7 +2,7 @@ package com.qa.persistence.repository;
 
 public interface ClassroomRepository {
 	
-	String createClassroom(String recipe);
+	String createClassroom(String classroom);
 	
 	String getAllClassrooms();
 	
